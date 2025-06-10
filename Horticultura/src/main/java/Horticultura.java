@@ -1,7 +1,8 @@
 
 /**
- * @author user
+ * @author Stefano Lopes Delgado
  */
+
 public class Horticultura {
     public static void main(String[] args) {
         Estufa estufa = new Estufa();
